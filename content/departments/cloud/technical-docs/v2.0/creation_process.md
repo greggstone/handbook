@@ -8,8 +8,8 @@ For basic operations like accessing an instance for these steps, see [managed in
 Follow https://github.com/sourcegraph/deploy-sourcegraph-cloud-controller#installation to install `mgv2`
 
 ```sh
-git clone https://github.com/sourcegraph/deploy-sourcegraph-cloud-next
-cd deploy-sourcegraph-cloud-next
+git clone https://github.com/sourcegraph/deploy-sourcegraph-cloud-dev
+cd deploy-sourcegraph-cloud-dev
 ```
 
 ## Steps
